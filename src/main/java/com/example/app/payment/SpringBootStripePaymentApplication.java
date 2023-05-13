@@ -1,4 +1,4 @@
-package com.example.springbootstripepayment;
+package com.example.app.payment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
